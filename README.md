@@ -764,3 +764,4 @@ Instead, you may add a comment specifying the default, such as
 This prevents the behaviour drifting from that of the binary in case the binary's default values change.
 
 We understand that the comment stating the binary's default can become stale. The current solution is a suboptimal one. It may be improved in the future by generating a list of the default values from the binary.
+
